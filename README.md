@@ -7,5 +7,5 @@ such as C, x86_64 ASM, and ARM ASM. I am working on my self accountability with 
 
 ## Contact
  * e-Mail : redmonmd@gmail.com 
- <br/>
+ <br ></br>
  ![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=Twitter&logoColor=white)
