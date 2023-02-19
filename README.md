@@ -1,11 +1,14 @@
-# Hello!
+## Hello, Github!
 
-My name is David, thanks for taking a look at my GitHub profile! I am currently working on learning lower-level languages
-such as C, x86_64 ASM, and ARM ASM. I am working on my self accountability with posting my code on here, so bare with me :D 
+My Name is David, this is my github. I am working on accountablity with code
+and contributing more to open source projects, so feel free to look around, and
+e-mail, or DM with what I could do better! I appreicate all feedback. 
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=redmonmd&hide=prs,stars&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
+
 ## Contact
- * e-Mail : redmonmd@gmail.com 
+ * E-Mail : redmonmd@gmail.com 
  <br ></br>
  ![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=Twitter&logoColor=white)
