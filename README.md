@@ -9,6 +9,5 @@ e-mail, or DM with what I could do better! I appreicate all feedback.
 
 
 ## Contact
- * E-Mail : redmonmd@gmail.com 
- <br ></br>
- ![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=Twitter&logoColor=white)
+ * E-Mail : redmonmd@gmail.com
+
