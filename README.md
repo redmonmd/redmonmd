@@ -5,6 +5,3 @@ and contributing more to open source projects, so feel free to look around, and
 e-mail, or DM with what I could do better! I appreicate all feedback. 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=redmonmd&hide=prs,stars&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-
-
